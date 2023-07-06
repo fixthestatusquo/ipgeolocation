@@ -11,6 +11,6 @@
   "author": "xavier.dutoit <xavier@tttp.eu>",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "^2.2.1"
+    "prettier": "^3.0.0"
   }
 }
